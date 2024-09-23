@@ -1,0 +1,12 @@
+{
+  "domain": "eone",
+  "name": "EOne",
+  "codeowners": [
+    "@toat"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/acesyde/hassio_eone_integration",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/acesyde/hassio_eone_integration/issues",
+  "version": "0.0.1"
+}
